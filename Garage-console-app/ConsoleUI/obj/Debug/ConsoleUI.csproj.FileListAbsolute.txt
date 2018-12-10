@@ -1,0 +1,22 @@
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\bin\Debug\DN_IDC_2017B_Ex03.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\bin\Debug\DN_IDC_2017B_Ex03.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\bin\Debug\Ex03GarageLogic.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\bin\Debug\Ex03GarageLogic.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\bin\Debug\Ex03GarageLogic.dll
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\bin\Debug\Ex03GarageLogic.pdb
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\ConsoleUI\obj\Debug\ConsoleUI.pdb

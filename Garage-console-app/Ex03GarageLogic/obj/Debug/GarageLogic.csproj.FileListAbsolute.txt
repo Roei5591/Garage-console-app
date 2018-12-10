@@ -1,0 +1,21 @@
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\bin\Debug\DN_IDC_2017B_Ex03.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\obj\Debug\DN_IDC_2017B_Ex03.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\bin\Debug\DN_IDC_2017B_Ex03.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\DN_IDC_2017B_Ex03\obj\Debug\DN_IDC_2017B_Ex03.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\DN_IDC_2017B_Ex03\bin\Debug\Ex03GarageLogic.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\DN_IDC_2017B_Ex03\bin\Debug\Ex03GarageLogic.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\DN_IDC_2017B_Ex03\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\DN_IDC_2017B_Ex03\obj\Debug\Ex03GarageLogic.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\DN_IDC_2017B_Ex03\obj\Debug\Ex03GarageLogic.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\Ex03GarageLogic\bin\Debug\Ex03GarageLogic.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\Ex03GarageLogic\bin\Debug\Ex03GarageLogic.pdb
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\Ex03GarageLogic\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\Ex03GarageLogic\obj\Debug\Ex03GarageLogic.dll
+D:\OneDrive\Code\VS\DN_IDC_2017B_Ex03\B17 Ex03 Roei 305278624 Refael 300396397\Ex03GarageLogic\obj\Debug\Ex03GarageLogic.pdb
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\bin\Debug\Ex03GarageLogic.dll
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\bin\Debug\Ex03GarageLogic.pdb
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\obj\Debug\Ex03GarageLogic.dll
+C:\Users\Roei\Desktop\homework2\New folder (9)\New folder (4)\Ex03GarageLogic\obj\Debug\Ex03GarageLogic.pdb
